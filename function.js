@@ -1,1 +1,2 @@
-function greet() { console.log('Helllo World'); } // typo: Helllo
+function greet() { console.log('Hello World'); }
+
